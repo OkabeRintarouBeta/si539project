@@ -1,0 +1,15 @@
+li.characters{
+	padding:5px;
+	display: inline-block;
+	width: 20%;
+}
+li.otherworks{
+	padding:5px;
+	display: inline-block;
+	width: 20%;
+}
+li.opening{
+	padding: 3px;
+	display: inline-block;
+	width: 20%;
+}
